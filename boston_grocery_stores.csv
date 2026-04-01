@@ -1,11 +1,11 @@
 name,address,lat,lng,rating,user_ratings_total
-Village Market,"30 Corinth Street, Roslindale",42.2861801,-71.1294617,,
+Village Market,"30 Corinth Street, Roslindale",42.2861801,-71.1294617,4.0,358.0
 Happy Market & Spirits,"128 South Street, Jamaica Plain",42.3056051,-71.1144618,4.5,450.0
 Target Grocery,"4165 Washington Street, Roslindale",42.2883138,-71.1266584,4.1,80.0
 Yessenia's Market,"3348 Washington Street, Jamaica Plain",42.3093344,-71.1045173,4.5,35.0
 Green Basket Market,"186 Green Street, Jamaica Plain",42.3099932,-71.1056995,3.7,70.0
 Brother's Supermarket - American Legion,"606 American Legion Highway, Roslindale",42.28564120000001,-71.109619,4.0,43.0
-Tropics Food Market,"1007 Blue Hill Avenue, Dorchester Center",42.28999719999999,-71.0898855,4.4,144.0
+Tropics Food Market,"1007 Blue Hill Avenue, Dorchester Center",42.28999719999999,-71.0898855,4.4,145.0
 La Bamba Super Market,"1 Lorne Street, Boston",42.2934217,-71.0896577,4.1,60.0
 Happy Supermarket Inc,"868 Blue Hill Avenue, Boston",42.2952371,-71.0874961,4.2,747.0
 Rosa's Family Market,"696 Blue Hill Avenue, Boston",42.3007479,-71.0857244,4.3,51.0
@@ -30,13 +30,13 @@ Phú Cường Market,"1188 Dorchester Avenue, Dorchester",42.3100501,-71.0572981
 Acropólis Supermarket,"533 Columbia Road, Boston",42.3156566,-71.06598009999999,4.3,6.0
 St Mary's Episcopal Church Food Pantry,"14 Cushing Avenue, Dorchester",42.31628679999999,-71.064308,3.8,5.0
 Brother's Supermarket - Dudley Street,"776 Dudley Street, Dorchester",42.31748029999999,-71.0656991,4.3,888.0
-Whole Foods Market,"413 Centre Street, Jamaica Plain",42.32158440000001,-71.11096309999999,4.1,1378.0
+Whole Foods Market,"413 Centre Street, Jamaica Plain",42.32158440000001,-71.11096309999999,4.1,1379.0
 Kurkman's Market Co,"227 Cypress Street a, Brookline",42.3272492,-71.1246039,4.6,125.0
 Price Rite of Roxbury,"330 Martin Luther King Jr Boulevard, Roxbury",42.3191446,-71.08227579999999,4.2,735.0
 Punjab Mini Mart,"1576 Tremont Street, Boston",42.3332298,-71.1024065,2.7,184.0
 Blue Hill HALAL Market,"20 Blue Hill Avenue, Roxbury",42.32448600000001,-71.0753971,4.9,54.0
 Davey's Super Market,"438 Dudley Street, Roxbury",42.3242123,-71.0738939,4.7,19.0
-Tropical Foods (El Platanero),"450 Melnea Cass Boulevard, Roxbury",42.33335659999999,-71.0822869,4.3,2728.0
+Tropical Foods (El Platanero),"450 Melnea Cass Boulevard, Roxbury",42.33335659999999,-71.0822869,4.3,2729.0
 Target Grocery,"7 Allstate Road, Dorchester",42.329239,-71.06317159999999,4.3,320.0
 Euromart,"808 Dorchester Avenue, Boston",42.3233008,-71.056698,4.6,241.0
 Dorchester Market,"951 Dorchester Avenue, Dorchester",42.3183796,-71.056941,4.6,66.0
@@ -44,12 +44,12 @@ Bell's Market,"246 Dorchester Street, South Boston",42.33251839999999,-71.051323
 Star Market,"45 Morrissey Boulevard, Dorchester",42.3186882,-71.0504916,4.1,1854.0
 Llanera Super Market,"260 East 8th Street, South Boston",42.3322515,-71.04994,4.3,62.0
 South Boston Market,"636 Dorchester Avenue, South Boston",42.32809899999999,-71.05679239999999,4.4,50.0
-Trader Joe's,"1317 Beacon Street, Brookline",42.34199529999999,-71.1205422,,
+Trader Joe's,"1317 Beacon Street, Brookline",42.34199529999999,-71.1205422,4.6,3697.0
 Star Market,"33 Kilmarnock Street, Boston",42.3435214,-71.1004083,4.1,1876.0
 Whole Foods Market,"15 Washington Street, Brighton",42.3427052,-71.1405568,4.2,1372.0
 The Butcherie,"428 Harvard Street, Brookline",42.3456194,-71.1276462,4.5,545.0
 Star Market,"1717 Beacon Street, Brookline",42.3376642,-71.13920379999999,4.0,813.0
-Bazaar On Beacon Street,"1432 Beacon Street, Brookline",42.3409891,-71.1265662,4.4,450.0
+Bazaar On Beacon Street,"1432 Beacon Street, Brookline",42.3409891,-71.1265662,4.4,451.0
 Star Market,"1065 Commonwealth Avenue, Boston",42.352627,-71.12336669999999,4.2,1693.0
 Allston Market,"169 Harvard Avenue, Allston",42.35139110000001,-71.13172089999999,3.9,195.0
 Target Grocery,"860 Commonwealth Avenue, Boston",42.3505926,-71.1140487,4.6,26.0
@@ -57,38 +57,38 @@ Target Grocery,"1341 Boylston Street, Boston",42.3446572,-71.0995726,3.6,7.0
 Trader Joe's,"899 Boylston Street, Boston",42.3484027,-71.0841906,4.5,2119.0
 Whole Foods Market,"15 Westland Avenue, Boston",42.3438346,-71.0873245,4.3,1405.0
 Symphony Market / Halal / postmate,"291 Huntington Avenue, Boston",42.3415202,-71.0868242,3.7,79.0
-Star Market,"53 Huntington Avenue, Boston",42.3477181,-71.0797151,4.2,1968.0
+Star Market,"53 Huntington Avenue, Boston",42.3477181,-71.0797151,4.2,1969.0
 Wollaston's Market,"369 Huntington Avenue, Boston",42.340294,-71.0906471,4.3,236.0
 South End Food Emporium,"469 Columbus Avenue, Boston",42.3434266,-71.07852640000002,4.3,130.0
 Foodie's Markets,"1421 Washington Street, Boston",42.34111679999999,-71.0707731,4.1,656.0
-New Ming,"1102 Washington Street, Boston",42.3442288,-71.0656277,4.0,815.0
-Whole Foods Market,"348 Harrison Avenue, Boston",42.345449,-71.0627816,4.4,2213.0
+New Ming,"1102 Washington Street, Boston",42.3442288,-71.0656277,4.0,816.0
+Whole Foods Market,"348 Harrison Avenue, Boston",42.345449,-71.0627816,4.4,2215.0
 Trader Joe's,"500 Boylston Street, Boston",42.350886,-71.0737444,4.7,180.0
-Jia Ho Supermarket,"692 Washington Street, Boston",42.351266,-71.0627842,4.2,926.0
+Jia Ho Supermarket,"692 Washington Street, Boston",42.351266,-71.0627842,4.2,929.0
 Foodie's Markets South Boston,"230 West Broadway, Boston",42.3397308,-71.05195210000001,3.4,163.0
 Roche Bros. Downtown Crossing,"8 Summer Street, Boston",42.3553517,-71.0600681,4.3,1474.0
 Trader Joe's,"44 Thomson Place, Boston",42.3517967,-71.0473514,4.7,855.0
-Trader Joe's,"748 Memorial Drive, Cambridge",42.3582624,-71.1141683,4.6,2204.0
-Whole Foods Market,"340 River Street, Cambridge",42.36100709999999,-71.1139362,4.4,1259.0
+Trader Joe's,"748 Memorial Drive, Cambridge",42.3582624,-71.1141683,4.6,2205.0
+Whole Foods Market,"340 River Street, Cambridge",42.36100709999999,-71.1139362,4.4,1260.0
 Whole Foods Market,"115 Prospect Street, Cambridge",42.3680693,-71.102383,4.1,967.0
-Broadway Marketplace,"468 Broadway, Cambridge",42.3739525,-71.11307950000001,4.1,523.0
+Broadway Marketplace,"468 Broadway, Cambridge",42.3739525,-71.11307950000001,4.1,524.0
 Trader Joe's,"199 North Harvard Street, Allston",42.3635097,-71.1298352,4.7,703.0
 Bazaar on Cambridge,"424 Cambridge Street, Allston",42.3545877,-71.1344929,4.3,608.0
-Star Market,"370 Western Avenue, Brighton",42.36092549999999,-71.1375414,4.1,1068.0
-H Mart Cambridge,"581 Massachusetts Avenue, Cambridge",42.3653106,-71.10231780000001,4.4,4271.0
+Star Market,"370 Western Avenue, Brighton",42.36092549999999,-71.1375414,4.1,1070.0
+H Mart Cambridge,"581 Massachusetts Avenue, Cambridge",42.3653106,-71.10231780000001,4.4,4272.0
 Cheema Supermarket,"562 Cambridge Street, Boston",42.352351,-71.1403629,4.2,394.0
 Mayfair Foods,"506 Cambridge Street, Allston",42.35317510000001,-71.1379915,4.5,86.0
 Target Grocery,"564 Massachusetts Avenue, Cambridge",42.364558,-71.1026351,4.0,12.0
-Whole Foods Market,"45 Beacon Street, Somerville",42.37602030000001,-71.10293419999999,4.3,854.0
+Whole Foods Market,"45 Beacon Street, Somerville",42.37602030000001,-71.10293419999999,4.3,856.0
 Hampshire Market,"117 Hampshire Street, Cambridge",42.3699188,-71.0960022,4.0,27.0
 Roche Bros.,"1 Broadway, Cambridge",42.3627822,-71.0835375,3.7,9.0
-Whole Foods Market,"181 Cambridge Street, Boston",42.36203809999999,-71.0655752,4.3,1430.0
+Whole Foods Market,"181 Cambridge Street, Boston",42.36203809999999,-71.0655752,4.3,1432.0
 Star Market,"14 McGrath Highway, Somerville",42.3740366,-71.0840053,4.0,1221.0
 Target Grocery,"100 Cambridge Street Ste 2, Boston",42.3609879,-71.0626207,3.5,16.0
-Star Market,"90 Causeway Street, Boston",42.3649898,-71.0622667,4.2,646.0
+Star Market,"90 Causeway Street, Boston",42.3649898,-71.0622667,4.2,647.0
 Tropics Int'l Foods LLC,"One Boston Place, Boston",42.35851329999999,-71.0584124,1.3,3.0
 Going Bananas,"65 Salem Street, Boston",42.36343189999999,-71.05613749999999,4.1,46.0
-Whole Foods Market,"27 Austin Street, Charlestown",42.37558279999999,-71.06614809999999,4.3,1186.0
+Whole Foods Market,"27 Austin Street, Charlestown",42.37558279999999,-71.06614809999999,4.3,1188.0
 Shaw's,"246 Border Street, East Boston",42.3766061,-71.0405298,4.1,1690.0
 Maverick Street Market,"207 Maverick Street, Boston",42.3687449,-71.036281,4.3,35.0
 Bella's Market,"75 Maverick Square, East Boston",42.3698404,-71.0385206,4.2,59.0
@@ -107,9 +107,9 @@ Target Grocery,"822 Somerville Avenue, Cambridge",42.3884085,-71.1184143,3.8,9.0
 Union Market,"29 Union Square, Somerville",42.3799736,-71.0969282,4.1,8.0
 El valle de La Sultana Market | Somerville,"290 Broadway, Somerville",42.3918057,-71.09247739999999,4.2,231.0
 Amigos Grocery Store,"86 Broadway A, Somerville",42.3870899,-71.0822768,4.1,123.0
-Trader Joe's,"145 Middlesex Avenue, Somerville",42.39561679999999,-71.0828193,4.6,2869.0
+Trader Joe's,"145 Middlesex Avenue, Somerville",42.39561679999999,-71.0828193,4.6,2871.0
 Boston Market,"276 Beacham Street, Chelsea",42.3957669,-71.0524506,,
-Market Basket,"170 Everett Avenue, Chelsea",42.3964755,-71.0422492,4.5,5296.0
+Market Basket,"170 Everett Avenue, Chelsea",42.3964755,-71.0422492,4.5,5298.0
 Stop and Compare Market,"153 Hawthorne Street, Chelsea",42.3919513,-71.03418119999999,4.2,703.0
 bp,"331 Bennington Street, East Boston",42.37903000000001,-71.02738,3.6,40.0
 ElSol Food Market,"353 Chelsea Street, East Boston",42.37830779999999,-71.0288235,4.0,10.0
@@ -118,14 +118,14 @@ MOLINAS MEAT MARKET,"11 2nd Street, Chelsea",42.3900296,-71.0392226,4.4,14.0
 Family Market,"369 Broadway, Chelsea",42.39179130000001,-71.03559729999999,4.5,10.0
 LATINO'S MARKET,"20 5th Street, Chelsea",42.39321760000001,-71.0349294,4.6,8.0
 Orient Heights Food Market,"1016 Bennington Street, East Boston",42.3871157,-71.0062476,4.0,50.0
-Whole Foods Market,"2151 Mystic Valley Parkway, Medford",42.4170313,-71.1265626,4.4,1135.0
-ALDI,"630 Fellsway, Medford",42.40709,-71.08359999999999,4.3,1078.0
-Wegmans,"MEADOW GLEN MALL, 3850 Mystic Valley Parkway, Medford",42.406902,-71.091931,4.5,3278.0
+Whole Foods Market,"2151 Mystic Valley Parkway, Medford",42.4170313,-71.1265626,4.4,1137.0
+ALDI,"630 Fellsway, Medford",42.40709,-71.08359999999999,4.2,1079.0
+Wegmans,"MEADOW GLEN MALL, 3850 Mystic Valley Parkway, Medford",42.406902,-71.091931,4.5,3279.0
 Target Grocery,"1 Mystic View Road, Everett",42.3987113,-71.07237529999999,4.4,117.0
-Nazar Market,"325 Rivers Edge Drive, Medford",42.4106294,-71.0753708,4.6,320.0
+Nazar Market,"325 Rivers Edge Drive, Medford",42.4106294,-71.0753708,4.6,326.0
 Foodland Halal Market & Cafe,"13 Highland Avenue, Malden",42.4150978,-71.0785553,4.2,378.0
 New Wei Feng Market 偉豐行超市,"333 Commercial Street, Malden",42.4158808,-71.0762956,4.2,42.0
-McKinnon's Market & Super Butcher Shop,"620 Broadway, Everett",42.4123629,-71.05086949999999,4.6,420.0
+McKinnon's Market & Super Butcher Shop,"620 Broadway, Everett",42.4123629,-71.05086949999999,4.7,419.0
 Supermercado Latino,"458 Broadway, Everett",42.40766279999999,-71.0553536,4.1,57.0
 Super JC Market and Cafe,"67 Chelsea Street, Everett",42.4054378,-71.0531661,4.4,426.0
 Merengue Market 2,"891 Broadway, Chelsea",42.3994546,-71.0223105,5.0,3.0
